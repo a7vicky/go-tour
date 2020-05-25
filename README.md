@@ -1,6 +1,6 @@
 # Golang-tutorial
 Ref:
-* [Why golang ?](https://go.dev/solutions)
+* [Why golang ?](https://go.dev/solutions) more details are [here](https://yourbasic.org/golang/advantages-over-java-python/)
 * [Install golang](https://golang.org/doc/install)
 * [Golang Blog](https://blog.golang.org/)
 * [Golang forum](https://forum.golangbridge.org/)
