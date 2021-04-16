@@ -10,12 +10,16 @@ Ref:
 * [builtin package](https://golang.org/pkg/builtin/)
 * [golang blog series](https://golangbot.com/learn-golang-series/)
 * [web devlopment gobook](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html)
+* [articles how to code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 
 ## Basics:
 This is a beginners tutorial for the Go programming language. Follow the documentation available here golang.org.
 Go is a general-purpose language designed with systems programming in mind. It is strongly typed and garbage-collected and has explicit support for concurrent programming. Programs are constructed from packages, whose properties allow efficient management of dependencies.
 
 ## Concepts
+* [GOPATH vs GOROOT](https://www.digitalocean.com/community/tutorials/understanding-the-gopath)
+* [writing comments](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-go)
+  * [doc](https://golang.org/ref/spec#Comments)
 * [array, slice](https://blog.golang.org/slices-intro) 
   * [additional article-1](https://go101.org/article/container.html)
   * [arrays](https://golang.org/doc/effective_go#arrays)
