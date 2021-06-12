@@ -9,8 +9,10 @@ Ref:
 * [Learn by examples](https://gobyexample.com/)
 * [builtin package](https://golang.org/pkg/builtin/)
 * [golang blog series](https://golangbot.com/learn-golang-series/)
+* [Learn Go with TDD](https://quii.gitbook.io/learn-go-with-tests/)
 * [web devlopment gobook](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html)
 * [articles how to code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
+* [Go Podcast](https://changelog.com/gotime/)
 
 ## Basics:
 This is a beginners tutorial for the Go programming language. Follow the documentation available here golang.org.
