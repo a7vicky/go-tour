@@ -13,6 +13,8 @@ Ref:
 * [web devlopment gobook](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html)
 * [articles how to code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 * [Go Podcast](https://changelog.com/gotime/)
+* [network programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
+* [Go web programming](https://livebook.manning.com/book/go-web-programming)
 
 ## Basics:
 This is a beginners tutorial for the Go programming language. Follow the documentation available here golang.org.
