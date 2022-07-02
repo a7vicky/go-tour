@@ -47,3 +47,10 @@ Go is a general-purpose language designed with systems programming in mind. It i
   * [pointers vs values](https://golang.org/doc/effective_go#pointers_vs_values)
 * [struct](https://golangbot.com/structs/) 
 * [interface](https://golang.org/doc/effective_go#interfaces)
+
+
+## video tutorial
+* [golang basics - golang dojo](https://www.youtube.com/watch?v=VTJ8qnBevcs&list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6)
+* [data structure using golang](https://www.youtube.com/watch?v=3DYIgTC4T1o&list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
+* [lets go with golang](https://www.youtube.com/watch?v=JoJ8Sw5Yb4c&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+* [GopherCon](https://www.youtube.com/c/GopherAcademy/playlists)
