@@ -48,6 +48,9 @@ Go is a general-purpose language designed with systems programming in mind. It i
 * [struct](https://golangbot.com/structs/) 
 * [interface](https://golang.org/doc/effective_go#interfaces)
 
+### videos
+* [understanding nil](https://www.youtube.com/watch?v=ynoY2xz-F8s)
+
 
 ## video tutorial
 * [golang basics - golang dojo](https://www.youtube.com/watch?v=VTJ8qnBevcs&list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6)
