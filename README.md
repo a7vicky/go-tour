@@ -52,6 +52,7 @@ Go is a general-purpose language designed with systems programming in mind. It i
 ## video tutorial
 * [golang basics - golang dojo](https://www.youtube.com/watch?v=VTJ8qnBevcs&list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6)
 * [go tutorial](https://www.youtube.com/playlist?list=PLSxcR40jNIvgl1FpoZTVIUOe37hiVEKJy)
+* [go class](https://www.youtube.com/playlist?list=UULFC2ot8w_U6yQsq7jdpbECvQ)
 * [data structure using golang](https://www.youtube.com/watch?v=3DYIgTC4T1o&list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6)
 * [lets go with golang](https://www.youtube.com/watch?v=JoJ8Sw5Yb4c&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 * [channel, context and interfaces](https://www.youtube.com/watch?v=VkGQFFl66X4)
