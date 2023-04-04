@@ -60,3 +60,4 @@ Go is a general-purpose language designed with systems programming in mind. It i
 * [lets go with golang](https://www.youtube.com/watch?v=JoJ8Sw5Yb4c&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 * [channel, context and interfaces](https://www.youtube.com/watch?v=VkGQFFl66X4)
 * [GopherCon](https://www.youtube.com/c/GopherAcademy/playlists)
+* [Golang TDD](https://www.youtube.com/watch?v=Bt1ZA82SF4o)
