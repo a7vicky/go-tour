@@ -16,6 +16,7 @@ Ref:
 * [network programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 * [Go web programming](https://livebook.manning.com/book/go-web-programming)
 * [Golang Talks](https://talks.golang.org/)
+* [Design patern](https://refactoring.guru/design-patterns/what-is-pattern)
 
 ## Basics:
 This is a beginners tutorial for the Go programming language. Follow the documentation available here golang.org.
